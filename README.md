@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Timothée Imaho
 - :shipit: You can call @Sweemyt, i'm 🇫🇷
 - 👀 I’m interested in machine learning, apps and web development
-- 🌲 I’m currently learning apps and web development in school
+- 🌲 I’m currently learning apps and web development in establishment
 - 🕑 while sometimes learning 👾 games development and 🤖 machine learning on my own
 
 <!---
